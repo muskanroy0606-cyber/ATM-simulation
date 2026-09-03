@@ -1,6 +1,6 @@
 
 #include <iostream>  
-#include <fstream>  
+#include <fstream>     
 #include <string>
 #include <iomanip>  
 #include <ctime>
